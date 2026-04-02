@@ -1,4 +1,6 @@
-import Bienvenida from './Bienvenida.jsx';
+import CuerpoPosteo from './CuerpoPosteo.jsx';
+import Encabezado from './Encabezado.jsx';
+import PieDePosteo from './PieDePosteo.jsx';
 //import './App.css'
 
 function App() {
@@ -7,8 +9,10 @@ function App() {
   return (
    <div>
 {/* 2. Lo usamos como si fuera una etiqueta HTML */}
-<Bienvenida />
-<p>Este es mi primer componente montado en App.jsx</p>
+<Encabezado />
+<CuerpoPosteo/>
+<PieDePosteo/>
+
 </div>
   )
 }
