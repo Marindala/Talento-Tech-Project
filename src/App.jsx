@@ -1,7 +1,7 @@
 import CuerpoPosteo from './CuerpoPosteo.jsx';
 import Encabezado from './Encabezado.jsx';
 import PieDePosteo from './PieDePosteo.jsx';
-//import './App.css'
+import './App.css'
 
 function App() {
 
