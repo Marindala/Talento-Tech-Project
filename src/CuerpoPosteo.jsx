@@ -2,17 +2,14 @@ import React from "react";
 function CuerpoPosteo() {
 return (
 <div>
-<p>✨ Según la Kabbalah, el cabello y las uñas no son simples partes del cuerpo…
-son símbolos profundos.
-
-Se dice que son lo único que quedó como “recuerdo” del Edén:
-una señal de nuestra conexión con lo eterno.
-
-🌿 El cabello representa fuerza, canal energético y protección.
-🌙 Las uñas representan acumulación, registro y energía residual.
-
-Por eso, todo lo que haces con tu cuerpo debería hacerse con conciencia.
-Nada es casualidad… ni siquiera lo que creías “sin vida”.</p>
+<p>✨En TalentoLab, convertimos ideas en
+herramientas digitales innovadoras y confiables,
+ofreciendo servicios de desarrollo con un enfoque
+en la calidad y eficiencia. Nuestro compromiso es
+desarrollar soluciones que optimicen procesos y
+potencien negocios, combinando creatividad,
+tecnología de punta y un compromiso absoluto con la satisfacción de nuestros clientes. Tu
+éxito es nuestra prioridad, y nuestras soluciones están diseñadas para marcar la diferencia.</p>
 
 </div>
 )
